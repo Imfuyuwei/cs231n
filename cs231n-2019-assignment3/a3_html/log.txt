@@ -1,0 +1,20 @@
+[NbConvertApp] Converting notebook RNN_Captioning.ipynb to html
+/afs/ir.stanford.edu/class/cs231n/grading/venv/local/lib/python3.5/site-packages/nbconvert/filters/highlight.py:138: UserWarning: IPython3 lexer unavailable, falling back on Python 3
+  warn("IPython3 lexer unavailable, falling back on Python 3")
+[NbConvertApp] Writing 1630760 bytes to a3_html/RNN_Captioning.html
+[NbConvertApp] Converting notebook LSTM_Captioning.ipynb to html
+/afs/ir.stanford.edu/class/cs231n/grading/venv/local/lib/python3.5/site-packages/nbconvert/filters/highlight.py:138: UserWarning: IPython3 lexer unavailable, falling back on Python 3
+  warn("IPython3 lexer unavailable, falling back on Python 3")
+[NbConvertApp] Writing 936947 bytes to a3_html/LSTM_Captioning.html
+[NbConvertApp] Converting notebook NetworkVisualization-PyTorch.ipynb to html
+/afs/ir.stanford.edu/class/cs231n/grading/venv/local/lib/python3.5/site-packages/nbconvert/filters/highlight.py:138: UserWarning: IPython3 lexer unavailable, falling back on Python 3
+  warn("IPython3 lexer unavailable, falling back on Python 3")
+[NbConvertApp] Writing 2893507 bytes to a3_html/NetworkVisualization-PyTorch.html
+[NbConvertApp] Converting notebook StyleTransfer-PyTorch.ipynb to html
+/afs/ir.stanford.edu/class/cs231n/grading/venv/local/lib/python3.5/site-packages/nbconvert/filters/highlight.py:138: UserWarning: IPython3 lexer unavailable, falling back on Python 3
+  warn("IPython3 lexer unavailable, falling back on Python 3")
+[NbConvertApp] Writing 3107551 bytes to a3_html/StyleTransfer-PyTorch.html
+[NbConvertApp] Converting notebook Generative_Adversarial_Networks_PyTorch.ipynb to html
+/afs/ir.stanford.edu/class/cs231n/grading/venv/local/lib/python3.5/site-packages/nbconvert/filters/highlight.py:138: UserWarning: IPython3 lexer unavailable, falling back on Python 3
+  warn("IPython3 lexer unavailable, falling back on Python 3")
+[NbConvertApp] Writing 1264546 bytes to a3_html/Generative_Adversarial_Networks_PyTorch.html
