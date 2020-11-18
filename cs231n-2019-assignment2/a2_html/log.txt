@@ -1,0 +1,24 @@
+[NbConvertApp] Converting notebook FullyConnectedNets.ipynb to html
+/afs/ir.stanford.edu/class/cs231n/grading/venv/local/lib/python3.5/site-packages/nbconvert/filters/highlight.py:138: UserWarning: IPython3 lexer unavailable, falling back on Python 3
+  warn("IPython3 lexer unavailable, falling back on Python 3")
+[NbConvertApp] Writing 728758 bytes to a2_html/FullyConnectedNets.html
+[NbConvertApp] Converting notebook BatchNormalization.ipynb to html
+/afs/ir.stanford.edu/class/cs231n/grading/venv/local/lib/python3.5/site-packages/nbconvert/filters/highlight.py:138: UserWarning: IPython3 lexer unavailable, falling back on Python 3
+  warn("IPython3 lexer unavailable, falling back on Python 3")
+[NbConvertApp] Writing 752256 bytes to a2_html/BatchNormalization.html
+[NbConvertApp] Converting notebook Dropout.ipynb to html
+/afs/ir.stanford.edu/class/cs231n/grading/venv/local/lib/python3.5/site-packages/nbconvert/filters/highlight.py:138: UserWarning: IPython3 lexer unavailable, falling back on Python 3
+  warn("IPython3 lexer unavailable, falling back on Python 3")
+[NbConvertApp] Writing 342374 bytes to a2_html/Dropout.html
+[NbConvertApp] Converting notebook ConvolutionalNetworks.ipynb to html
+/afs/ir.stanford.edu/class/cs231n/grading/venv/local/lib/python3.5/site-packages/nbconvert/filters/highlight.py:138: UserWarning: IPython3 lexer unavailable, falling back on Python 3
+  warn("IPython3 lexer unavailable, falling back on Python 3")
+[NbConvertApp] Writing 562999 bytes to a2_html/ConvolutionalNetworks.html
+[NbConvertApp] Converting notebook PyTorch.ipynb to html
+/afs/ir.stanford.edu/class/cs231n/grading/venv/local/lib/python3.5/site-packages/nbconvert/filters/highlight.py:138: UserWarning: IPython3 lexer unavailable, falling back on Python 3
+  warn("IPython3 lexer unavailable, falling back on Python 3")
+[NbConvertApp] Writing 716986 bytes to a2_html/PyTorch.html
+[NbConvertApp] Converting notebook TensorFlow.ipynb to html
+/afs/ir.stanford.edu/class/cs231n/grading/venv/local/lib/python3.5/site-packages/nbconvert/filters/highlight.py:138: UserWarning: IPython3 lexer unavailable, falling back on Python 3
+  warn("IPython3 lexer unavailable, falling back on Python 3")
+[NbConvertApp] Writing 341564 bytes to a2_html/TensorFlow.html
